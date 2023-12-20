@@ -7,13 +7,18 @@ This repo was created with &hearts; by [Venkatesh J](https://github.com/venki231
 
 ## Code of Conduct
 
+<<<<<<< HEAD
 If you want to contribute, please first read the Microsoft [Code of Conduct &rarr;](./templates/CODE_OF_CONDUCT.md)
+=======
+If you want to contribute, please first read the Microsoft [Code of Conduct &rarr;](./.github/CODE_OF_CONDUCT.md)
+>>>>>>> c310a113cf05a90cc58000ec82444c2c3fe609d1
 
 ## Bugs and Suggestions
 
 The easiest way to contribute is to provide feedback.
 
 * **Report Bugs**  
+<<<<<<< HEAD
 	If you find issues, please [open a GitHub issue &rarr;](./templates/ISSUE_TEMPLATE.md)
 
 * **Feature Requests**  
@@ -25,6 +30,19 @@ The easiest way to contribute is to provide feedback.
 ## Code Contributions
 
 You are most welcome to contribute.. :smiley:
+=======
+	If you find issues, please [open a GitHub issue &rarr;](https://github.com/Azure-Samples/devops-governance/issues)
+
+* **Feature Requests**  
+	Feel free to make suggestions by [opening a GitHub issue &rarr;](https://github.com/Azure-Samples/devops-governance/issues)
+	
+* **Ask a Question**  
+	Please also [open a GitHub issue &rarr;](https://github.com/Azure-Samples/devops-governance/issues)
+	
+## Code Contributions
+
+This project affects _real_ Azure resources and leverages CI/CD to safeguard them. Therefore please read through all the sections below carefully for highest success of your contribution being accepted.
+>>>>>>> c310a113cf05a90cc58000ec82444c2c3fe609d1
 
 - #### Use Conventional Commits
   Please use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) so we can _automate_ the Change Log. Thank you.
@@ -37,8 +55,18 @@ You are most welcome to contribute.. :smiley:
 
 - #### Create a Pull Request
   
+<<<<<<< HEAD
   do it if you need to..
 
 ## License
 
 This project is published under the MIT license. See [LICENSE.md](./LICENSE) for details.
+=======
+  Only Pull Requests with passing CI builds can be accepted for merging.
+  
+  When you are ready and checked you have met all code requirements described above, you can open a pull request.	When you do so, a CI build should be automatically started. If you're having difficulty, please feel free to reach out for help by [opening an issue](https://github.com/Azure-Samples/devops-governance/issues) or via Twitter [@jng5](https://twitter.com/jng5).
+
+## License
+
+This project is published under the MIT license. See [LICENSE.md](./LICENSE.md) for details.
+>>>>>>> c310a113cf05a90cc58000ec82444c2c3fe609d1
