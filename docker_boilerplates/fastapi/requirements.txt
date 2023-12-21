@@ -1,0 +1,6 @@
+# Python requirements file is used to load all the dependencies
+# that is required for the main.py
+
+uvicorn[standard]==0.20.0
+gunicorn==20.1.0
+fastapi[all]==0.88.0
